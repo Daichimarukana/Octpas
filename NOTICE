@@ -1,0 +1,64 @@
+=========================================================================
+==  NOTICE file for use with the Apache License, Version 2.0,          ==
+==  in this case for the OpenPNE3 distribution.                        ==
+=========================================================================
+
+OpenPNE3
+Copyright 2005-2020 OpenPNE Project
+
+This product includes software developed at
+OpenPNE Project (http://www.openpne.jp/).
+  - Apache License 2.0
+  - PHP License 3.01 (OpenPNE2)
+
+This product includes also softwares developed by :
+  - the symfony project (http://www.symfony-project.org/)
+    - MIT License
+  - Zend Technologies USA Inc. (http://www.zend.com/)
+    - New BSD License
+  - JanRain, Inc. (http://www.janrain.com/)
+    - Apache License 2.0
+  - Andy Smith (http://term.ie/)
+    - MIT License
+  - Ryan Parman, Geoffrey Sneddon
+    - BSD 3-clause License (SimplePie)
+  - Fabien Potencier (http://fabien.potencier.org/)
+    - MIT License
+  - Kousuke Ebihara (http://co3k.org/)
+    - Apache License 2.0
+  - Stig Bakken, Gregory Beaver, Helgi Þormar Þorbjörnsson, Tomas V.V.Cox, Martin Jansen
+    - BSD 2-clause License (PEAR)
+  - Greg Beaver
+    - BSD 2-clause License (PEAR_PackageFileManager2)
+  - Vincent Oostindie, Alan Knowles, Peter Bowyer, Philippe Jausions
+    - PHP License 3.0 (Image_Transform)
+  - Harry Fuecks, Lorenzo Alberton
+    - BSD 3-clause License (Calendar)
+
+This product needs the third-party softwares listed blow to run.
+  - PHP: Hypertext Preprocessor (5.4 +)
+
+This product includes dependent libraries listed blow:
+  - LExpress/symfony1 1.5.9 (fork of symfony 1.4)
+  - Zend Framework 1.10.8 (partly)
+    - Zend_Acl
+    - Zend_Exception
+    - Zend_Feed
+    - Zend_Http
+    - Zend_Loader
+    - Zend_Mail
+    - Zend_Mime
+    - Zend_Registry
+    - Zend_Search
+    - Zend_Uri
+    - Zend_Validate
+    - Zend_Version
+  - Auth OpenID 2.1.2
+  - PHP OAuth library
+  - SimplePie 1.4.3
+  - sfFormExtraPlugin 1.0.12
+  - sfImageHandlerPlugin 1.0.0
+  - PEAR 1.10.3
+  - PEAR_PackageFileManager2 1.0.4
+  - Image_Transform 0.9.5
+  - Calendar 0.5.5
