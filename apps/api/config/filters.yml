@@ -1,0 +1,13 @@
+rendering: ~
+
+cache_control:
+  class: opCacheControlFilter
+
+security:
+  class: opAPISecurityFilter
+
+# insert your own filters here
+
+cache:     ~
+
+execution: ~
